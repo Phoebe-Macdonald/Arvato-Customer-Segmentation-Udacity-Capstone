@@ -12,19 +12,35 @@ A blog post was created to summarise the results: https://medium.com/@phoebe.mac
 
 ## Prerequisites:
 Data preparation:
-import numpy as np
-import pandas as pd
+- import numpy as np
+- import pandas as pd
+- import re
 
 Data visualisations:
-import matplotlib.pyplot as plt
-import seaborn as sns
+- import matplotlib.pyplot as plt
+- import seaborn as sns
+- from matplotlib import pyplot
 
 Customer segmentation:
-from sklearn.preprocessing import StandardScaler
-from sklearn.decomposition import PCA
-from sklearn.cluster import KMeans
+- from sklearn.preprocessing import StandardScaler
+- from sklearn.decomposition import PCA
+- from sklearn.cluster import KMeans
+- from sklearn import preprocessing
 
 Predictive model:
+- from sklearn.model_selection import train_test_split
+- import xgboost as xgb
+- from sklearn.metrics import roc_curve
+- from sklearn.metrics import roc_auc_score
+
+## Credits:
+- Visualising distribution of data: https://towardsdatascience.com/a-guide-to-pandas-and-matplotlib-for-data-exploration-56fad95f951c
+- Visualising correlations between metrics https://towardsdatascience.com/a-guide-to-pandas-and-matplotlib-for-data-exploration-56fad95f951c 
+- Establishing optimum number of components in PCA https://towardsdatascience.com/an-approach-to-choosing-the-number-of-components-in-a-principal-component-analysis-pca-3b9f3d6e73fe 
+- Establishing optimum number of clusters for kmeans https://towardsdatascience.com/customer-segmentation-using-k-means-clustering-d33964f238c3
+- Plotting ROC curve of model https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/ 
+- Guidance on how to create and tune an XGBoost model https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
+
 
 
 ## Files:
