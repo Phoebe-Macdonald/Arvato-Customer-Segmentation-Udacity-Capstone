@@ -29,34 +29,34 @@ Data preparation:
 - import re
 
 Data visualisations:
-import matplotlib.pyplot as plt
-import seaborn as sns
-from matplotlib import pyplot
-from mpl_toolkits.mplot3d import Axes3D
+- import matplotlib.pyplot as plt
+- import seaborn as sns
+- from matplotlib import pyplot
+- from mpl_toolkits.mplot3d import Axes3D
 
 Data processing:
-from sklearn import preprocessing
-from sklearn.preprocessing import StandardScaler
-from sklearn.decomposition import PCA
-from sklearn.manifold import TSNE
+- from sklearn import preprocessing
+- from sklearn.preprocessing import StandardScaler
+- from sklearn.decomposition import PCA
+- from sklearn.manifold import TSNE
 
 Customer segmentation:
-from sklearn.cluster import KMeans
-from kmodes.kmodes import KModes
-from sklearn.metrics import silhouette_score
-from sklearn.metrics import silhouette_samples
+- from sklearn.cluster import KMeans
+- from kmodes.kmodes import KModes
+- from sklearn.metrics import silhouette_score
+- from sklearn.metrics import silhouette_samples
 
 Predictive models:
-from catboost import CatBoostClassifier
-import lightgbm as lgb
-import xgboost as xgb
+- from catboost import CatBoostClassifier
+- import lightgbm as lgb
+- import xgboost as xgb
 
 Model evaluation: 
-from sklearn.model_selection import train_test_split
-from sklearn.model_selection import GridSearchCV
-from sklearn import metrics
-from sklearn.metrics import roc_curve
-from sklearn.metrics import precision_recall_curve
+- from sklearn.model_selection import train_test_split
+- from sklearn.model_selection import GridSearchCV
+- from sklearn import metrics
+- from sklearn.metrics import roc_curve
+- from sklearn.metrics import precision_recall_curve
 
 ## Credits:
 My fantastic mentor Marom and manager Jamie and the following links:
