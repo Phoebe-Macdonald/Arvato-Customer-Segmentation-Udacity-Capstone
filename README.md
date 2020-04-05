@@ -75,8 +75,8 @@ My fantastic mentor Marom and manager Jamie and the following links:
 
 
 ## Files:
-For data protection reasons, the data used in this project is not available for download from this GitHub repository.
-The full analysis and workflow can be found in: Arvato Project Workbook.ipynb/html 
-A summary of results can be found on the following Medium article: https://medium.com/@phoebe.macdonald/who-are-arvato-banks-most-valuable-customers-7504f6bf3c77
+- For data protection reasons, the data used in this project is not available for download from this GitHub repository.
+- The full analysis and workflow can be found in: Arvato Project Workbook.ipynb/html 
+- A summary of results can be found on the following Medium article: https://medium.com/@phoebe.macdonald/who-are-arvato-banks-most-valuable-customers-7504f6bf3c77
 
 
